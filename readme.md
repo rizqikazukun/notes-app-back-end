@@ -1,2 +1,2 @@
 ## Front End
-```http://notesapp-v1.*academy.com/```
+```http://notesapp-v1.dicodingacademy.com/```
